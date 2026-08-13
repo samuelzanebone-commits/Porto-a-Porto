@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/samuelzanebone/Downloads/porto/Porto_a_Porto'
+relocations:     []
+...
